@@ -2,9 +2,10 @@
 My Industrial Training Project on 'Campus Placement Prediction' using ML with Python
 -------------------------------------------------------------------------------------
 
-The scope of this project is to determine the placement status of a student. The 'Campus Placement Prediction' model has been designed by using two classification algorithms namely Logistic Regression and Naive Bayes Classification. This project can be easily implemented under various situations. One can add features as and when required.
+The scope of this project is to determine the placement status of a student. The 'Campus Placement Prediction' model has been designed by using two classification algorithms namely Logistic Regression and Naive Bayes Classifier. This project can be easily implemented in various situations. One can add features as and when required.
+
 Reusability and flexibility can be exhibited in the modules. This project is extendable in ways that its original developers may not expect. The model enhances extensibility like Supervised Learning and Binary Classification.
-With the advent of upgraded version of the programming language we may be able to reduce the code and simplify the understanding.
+With the advent of the upgraded version of the programming language, we may be able to reduce the code and simplify the understanding.
 
 The dataset used in the project has been provided for reference:
 - Jain University Bangalore Campus Placement Dataset
@@ -23,4 +24,4 @@ Anurag Ganguly (Gangulys-99)
 Anupam Chakrborty (AnupamChaks0101)
 Ananya Paul (ananyapaul2021)
 
-N.B.: The model may not achieve the best accuracy; fiddling with the various parameters may enhance it.
+N.B.: The model may not achieve the best accuracy, though fiddling with the various parameters may enhance it.
