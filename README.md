@@ -1,5 +1,5 @@
 # Campus Placement Prediction
-My Industrial Training Project on 'Campus Placement Prediction' using ML with Python
+Industrial Training Project on 'Campus Placement Prediction' using ML with Python
 -------------------------------------------------------------------------------------
 
 The scope of this project is to determine the placement status of a student. The 'Campus Placement Prediction' model has been designed by using two classification algorithms namely Logistic Regression and Naive Bayes Classifier. This project can be easily implemented in various situations. One can add features as and when required.
